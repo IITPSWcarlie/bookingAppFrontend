@@ -19,6 +19,10 @@ function Signup() {
             <input type="text" placeholder="이메일"></input><br /><br />
             <h3>생년월일</h3>
             <input type="date" placeholder="생년월일"></input><br /><br />
+
+            <h2>사업자 인증</h2>
+            <h3>사업자등록증</h3>
+            <input type="file" placeholder="사업자등록증"></input><br /><br />
             <button>회원가입</button>
         </div>
     )
