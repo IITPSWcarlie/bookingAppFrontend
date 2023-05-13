@@ -1,0 +1,15 @@
+.dpost {
+    background-color: aliceblue;
+    display: block;
+    position: absolute;
+    width: 500px;
+    height: 430px;
+    padding: 20px;
+}
+
+.dpost button {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    margin: 10px;
+}

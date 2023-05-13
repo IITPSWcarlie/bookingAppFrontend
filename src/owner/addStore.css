@@ -1,0 +1,8 @@
+#popupDom {
+    position: fixed;
+    left: 35%;
+    width: 540px;
+    height: 470px;
+    display: block;
+    z-index: -100;
+}
